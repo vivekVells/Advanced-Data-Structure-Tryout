@@ -12,7 +12,7 @@
  */
 
 //CODE:
-package ADS.Chap3;
+//package ADS.Chap3;
 
 public class SinglyLSInstrument {
 	protected NodeParts startNodeRef = null, endNodeRef = null;
