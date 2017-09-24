@@ -10,7 +10,7 @@
  */
 
 //CODE:
-package ADS.Chap3;
+//package ADS.Chap3;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
